@@ -1,13 +1,13 @@
 ```markdown
-# Flask API for Current Information
+#Flask API for Current Information
 
 This Flask API provides information about a user's Slack name, the current day of the week, the current UTC time, and their track. It accepts two GET request query parameters (`slack_name` and `track`) and returns the information in JSON format.
 
-## API Endpoint
+##API Endpoint
 
 The API endpoint is `/api`.
 
-## Usage
+##Usage
 
 To use this API, make a GET request to the endpoint with the following parameters:
 
@@ -19,7 +19,7 @@ Example URL:
 https://task1-hngx.vercel.app/api?slack_name=example_name&track=backend
 ```
 
-## Response
+##Response
 
 The API response will be in JSON format and will include the following fields:
 
@@ -41,7 +41,7 @@ Example JSON response:
 }
 ```
 
-## Installation
+##Installation
 
 1. Clone this repository:
 
