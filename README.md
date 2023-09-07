@@ -46,7 +46,7 @@ Example JSON response:
 1. Clone this repository:
 
    ```
-   git clone https://github.com/yourusername/your-flask-api.git
+   git clone https://github.com/MichealDavid1/Task1_HNGX.git
    ```
 
 2. Install the required dependencies:
