@@ -52,7 +52,7 @@ Example JSON response:
 2. Install the required dependencies:
 
    ```
-   pip install flask pytz
+   pip install -r requirements.txt
    ```
 
 3. Run the Flask API:
