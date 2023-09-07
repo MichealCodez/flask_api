@@ -18,7 +18,7 @@ To use this API, make a GET request to the endpoint with the following parameter
 
 Example URL:
 ```
-http://example.com/api?slack_name=example_name&track=backend
+https://task1-hngx.vercel.app/api?slack_name=example_name&track=backend
 ```
 
 ## Response
@@ -38,6 +38,7 @@ Example JSON response:
   "current_day": "Monday",
   "utc_time": "2023-08-21T15:04:05Z",
   "track": "backend",
+  "github_file_url": "https://github.com/MichealDavid1/Task1_HNGX/blob/main/app.py","github_repo_url": "https://github.com/MichealDavid1/Task1_HNGX.git",
   "status_code": 200
 }
 ```
@@ -62,4 +63,4 @@ Example JSON response:
    python app.py
    ```
 
-The API will be accessible at `http://localhost:5000/api`.
+The API will be accessible at `https://task1-hngx.vercel.app/api`.
