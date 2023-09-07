@@ -1,5 +1,3 @@
-Certainly! Here's a sample `README.md` file for your Flask API:
-
 ```markdown
 # Flask API for Current Information
 
