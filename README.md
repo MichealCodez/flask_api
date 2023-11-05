@@ -1,5 +1,4 @@
-```markdown
-#Flask API for Current Information
+# Flask API for Current Information
 
 This Flask API provides information about a user's Slack name, the current day of the week, the current UTC time, and their track. It accepts two GET request query parameters (`slack_name` and `track`) and returns the information in JSON format.
 
